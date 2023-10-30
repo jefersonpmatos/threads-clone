@@ -1,75 +1,49 @@
-# Nuxt 3 Minimal Starter
+# Threads Clone
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Um estudo de caso, um clone funcional da rede social Threads da Meta (Facebook) feito em Vue e Nuxt Js.
 
-## Setup
+## 🚀 Começando
 
-Make sure to install the dependencies:
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de teste.
 
-```bash
-# npm
-npm install
+### 📋 Pré-requisitos
 
-# pnpm
-pnpm install
+Clone o repositório
 
-# yarn
-yarn install
-
-# bun
-bun install
+```
+git clone git@github.com:jefersonpmatos/threads-clone.git
 ```
 
-## Development Server
+### 🔧 Instalação
 
-Start the development server on `http://localhost:3000`:
+Instale as dependências:
 
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+```
+npm install ou yarn add
 ```
 
-## Production
+Rode o projeto:
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+```
+npm run dev ou yarn dev
 ```
 
-Locally preview production build:
+### ⚡ Tecnologias
 
-```bash
-# npm
-npm run preview
+* ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+* ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+* ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+* ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+* ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# pnpm
-pnpm run preview
 
-# yarn
-yarn preview
 
-# bun
-bun run preview
-```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## 📌 Versão
+
+Versão Beta. 
+
+---
+⌨️ com ❤️ por [Jeferson P. Matos]([https://gist.github.com/lohhan](https://github.com/jefersonPMatos)https://github.com/jefersonPMatos) 
